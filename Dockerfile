@@ -13,7 +13,7 @@ RUN apk update \
     libxml2-dev \
     libxslt-dev \
     nodejs \
-    pg \
+    sqlite \
     sqlite-dev \
     yarn
 
